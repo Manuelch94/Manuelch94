@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/KhLUaeqciBROeFRq6P/giphy.gif" height="20" width="100%">
+<img src="https://media.giphy.com/media/KhLUaeqciBROeFRq6P/giphy.gif" height="50" width="100%">
 

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/KhLUaeqciBROeFRq6P/giphy.gif" width="40%">
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/manuel-chaves-896a801a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">

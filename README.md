@@ -25,3 +25,9 @@ Here are some ideas to get you started:
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
+
+
+<p align="center">
+  
+  
+<img src="https://komarev.com/ghpvc/?username=Manuelch94&style=flat-square&color=blue" alt=""/>

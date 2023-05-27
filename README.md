@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   hi! 
-  </h1>
-
+</h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/KhLUaeqciBROeFRq6P/giphy.gif" width="40%">
@@ -30,8 +29,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
 
-
 <p align="center">
-  
-  
 <img src="https://komarev.com/ghpvc/?username=Manuelch94&style=flat-square&color=blue" alt=""/>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

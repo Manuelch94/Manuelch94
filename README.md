@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  hi! 
+  hi! Splunk content incoming
 </h1>
 
 <p align="center">

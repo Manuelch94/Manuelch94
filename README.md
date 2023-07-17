@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  hi! Splunk content incoming!
+  hi!
 </h1>
 
-<p align="center">
-<img src="https://media.giphy.com/media/KhLUaeqciBROeFRq6P/giphy.gif" width="40%">
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/manuel-chaves-896a801a1/">
